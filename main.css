@@ -1,0 +1,58 @@
+*{
+    color: white;
+    background: black;
+}
+div{
+    border: 2px solid gray;
+    border-radius: 3px; 
+}
+#headDiv{
+    display: block;
+}
+#titleDiv{
+    width: 50%;
+    float: left;
+}
+#accountDiv{
+    width: 30%;
+    float: right;
+}
+#holderDiv{
+    background: rgb(85, 83, 83);
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+#stuffDiv{
+    width: 10%;
+    display: block;
+    float: left;
+}
+#categoryDiv{
+    width: 10%;
+    display: block;
+    float: left;
+}
+#searchDiv{
+    width: 19%;
+    float: right;
+}
+.shopItem{
+    width: 25%;
+    position: relative;
+    height: 30%;
+    display: block;
+    float: left;
+    margin: 10px 10px;
+}
+#newsDiv{
+    width: 48%;
+    float: left;
+}
+#moreDiv{
+    width: 48%;
+    float: right;
+}
+footer{
+    bottom: 0;
+    float: center;
+}
